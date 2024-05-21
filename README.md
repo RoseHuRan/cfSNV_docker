@@ -109,7 +109,7 @@ wget ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR852/ERR852106/ERR852106_2.fastq.gz
 The example reference files can be downloaded through
 
 ```bash
-wget https://zenodo.org/record/7191202/files/example_reference_files.tar.gz
+wget https://zenodo.org/record/11238603/files/example_reference_files.tar.gz
 ```
 
 **Test demo data files**
@@ -117,13 +117,13 @@ wget https://zenodo.org/record/7191202/files/example_reference_files.tar.gz
 The demo data for quick testing can be downloaded through
 
 ```bash
-wget https://zenodo.org/record/7191202/files/demo_data.tar.gz
+wget https://zenodo.org/record/11238603/files/demo_data.tar.gz
 ```
 
 The demo reference files can be downloaded through
 
 ```bash
-wget https://zenodo.org/record/7191202/files/demo_reference_files.tar.gz
+wget https://zenodo.org/record/11238603/files/demo_reference_files.tar.gz
 ```
 
 ## The demo output
